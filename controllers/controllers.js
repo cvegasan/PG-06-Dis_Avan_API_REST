@@ -14,6 +14,8 @@ export const prepararHATEOAS = (inventario) => {
       };
     })
     .slice(0, inventario.length);
+
+  //Formato para HATEOAS
   const totalJoyas = inventario[0].total_joyas;
   const stockTotal = inventario[0].total_stock;
   const HATEOAS = {
