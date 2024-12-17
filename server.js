@@ -16,7 +16,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use(generarReporte); //middleware nuevo
+app.use(generarReporte); //middleware nuevo que genera archivo informe.log
 
 //Ruta para los posts
 app.use(JewelRoutes);
