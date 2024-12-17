@@ -1,6 +1,6 @@
 # Desafío 06 - Tienda Joyería (Diseño avanzado de API REST)
 
-## :computer: Para interactuar con el servidor app.js ejecutar:
+## :computer: Para interactuar con el servidor server.js ejecutar:
 
  ## Server (Backend)
 npm i -y  
