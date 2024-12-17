@@ -1,0 +1,2 @@
+Tue, 17 Dec 2024 00:40:29 GMT -- method: GET -- url: /joyas/filter?precio_min=30000&precio_max=12000&categoria=aros -- status: 200 -- response-time: 759.372 ms
+Tue, 17 Dec 2024 00:40:34 GMT -- method: GET -- url: /joyas/filter?precio_min=30000&precio_max=12000&categoria=aros -- status: 200 -- response-time: 5.954 ms
